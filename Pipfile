@@ -4,11 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
 pandas = "*"
+numpy = "*"
 seaborn = "*"
-matplotlib = "*"
 pipreqs = "*"
+streamlit = "*"
+matplotlib = "*"
 
 [dev-packages]
 

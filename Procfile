@@ -1,1 +1,1 @@
-web: pip3 install requirement.txt && sh setup.sh && streamlit run eda.py
+web: sh setup.sh && streamlit run eda.py
